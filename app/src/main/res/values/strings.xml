@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MarkAcademics</string>
+    <string-array name="exam_type">
+        <item>Term 1</item>
+        <item>Term 2 </item>
+        <item>Term 3</item>
+        <item>Term 4</item>
+        <item>Term 5</item>
+        <item>Term 6</item>
+        <item>Term 7</item>
+        <item>Term 8</item>
+        <item>Quartely Exam</item>
+        <item>Halfearly</item>
+        <item>Annual Exam</item>
+    </string-array>
+
+</resources>
